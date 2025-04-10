@@ -14,9 +14,7 @@ No external libraries needed—only Java!
 Great to demonstrate control flow, arrays, loops, OOP, and basic game logic.
 
 📂 Project Structure
-cpp
-Copy
-Edit
+
 BrainBlox/
 ├── BrainBlox.java              // Main class with menu
 ├── PuzzleSet.java              // Contains different puzzles
