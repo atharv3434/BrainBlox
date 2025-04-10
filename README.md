@@ -1,7 +1,7 @@
 # BrainBlox
 
 
-🎲 BrainBlox – A Logical Puzzle Game in Java (Console-Based)
+🎲 BrainBlox – A Logical Puzzle Game in Java 
 A fun and interactive console game that challenges users with different types of logic puzzles, such as number series, riddles, and pattern recognition. The user gets points for each correct answer and can track their progress.
 
 🧠 Why this project?
